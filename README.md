@@ -1,2 +1,2 @@
-Goals: Become DevOps expert!
+Goals: Master Git for DevOps!
 
