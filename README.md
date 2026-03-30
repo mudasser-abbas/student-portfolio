@@ -1,2 +1,2 @@
-Goals: Master Git and GitHub!.
+Goals: Become DevOps expert!
 
