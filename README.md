@@ -1,2 +1,1 @@
-Goals: Master Git for DevOps!
-
+In this activity, I learned and implemented essential Git and GitHub operations. I initialized a repository, created commits, managed branches, and merged them. I also practiced resolving merge conflicts, undoing changes, and using Git stash. Furthermore, I used GitHub features such as pull requests and issues to simulate collaboration. This activity helped me understand real-world version control workflows used in DevOps.
